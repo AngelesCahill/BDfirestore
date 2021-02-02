@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0021basedatosfirebase
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# BDfirestore
+>>>>>>> 8a3403e1d5ba2dcd902524303b938e4e36eb305a
